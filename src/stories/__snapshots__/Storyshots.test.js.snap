@@ -1,0 +1,2013 @@
+exports[`Storyshots StarRating Default 1`] = `
+<div
+  className="ais-StarRating__root">
+  <a
+    className="ais-StarRating__ratingLink"
+    disabled={false}
+    href="#"
+    onClick={[Function]}>
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingLabel">
+      & Up
+    </span>
+    <span>
+       
+    </span>
+    <span
+      className="ais-StarRating__ratingCount">
+      5
+    </span>
+  </a>
+  <a
+    className="ais-StarRating__ratingLink"
+    disabled={false}
+    href="#"
+    onClick={[Function]}>
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIconEmpty" />
+    <span
+      className="ais-StarRating__ratingLabel">
+      & Up
+    </span>
+    <span>
+       
+    </span>
+    <span
+      className="ais-StarRating__ratingCount">
+      9
+    </span>
+  </a>
+  <a
+    className="ais-StarRating__ratingLink"
+    disabled={false}
+    href="#"
+    onClick={[Function]}>
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIconEmpty" />
+    <span
+      className="ais-StarRating__ratingIconEmpty" />
+    <span
+      className="ais-StarRating__ratingLabel">
+      & Up
+    </span>
+    <span>
+       
+    </span>
+    <span
+      className="ais-StarRating__ratingCount">
+      12
+    </span>
+  </a>
+  <a
+    className="ais-StarRating__ratingLink"
+    disabled={false}
+    href="#"
+    onClick={[Function]}>
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIconEmpty" />
+    <span
+      className="ais-StarRating__ratingIconEmpty" />
+    <span
+      className="ais-StarRating__ratingIconEmpty" />
+    <span
+      className="ais-StarRating__ratingLabel">
+      & Up
+    </span>
+    <span>
+       
+    </span>
+    <span
+      className="ais-StarRating__ratingCount">
+      14
+    </span>
+  </a>
+  <div
+    className="ais-StarRating__ratingLink ais-StarRating__ratingLinkSelected"
+    disabled={false}>
+    <span
+      className="ais-StarRating__ratingIcon ais-StarRating__ratingIconSelected" />
+    <span
+      className="ais-StarRating__ratingIconEmpty ais-StarRating__ratingIconEmptySelected" />
+    <span
+      className="ais-StarRating__ratingIconEmpty ais-StarRating__ratingIconEmptySelected" />
+    <span
+      className="ais-StarRating__ratingIconEmpty ais-StarRating__ratingIconEmptySelected" />
+    <span
+      className="ais-StarRating__ratingIconEmpty ais-StarRating__ratingIconEmptySelected" />
+    <span
+      className="ais-StarRating__ratingLabel ais-StarRating__ratingLabelSelected">
+      & Up
+    </span>
+    <span>
+       
+    </span>
+    <span
+      className="ais-StarRating__ratingCount ais-StarRating__ratingCountSelected">
+      15
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Storyshots StarRating Highest selected range 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }>
+    <div
+      className="ais-StarRating__root">
+      <a
+        className="ais-StarRating__ratingLink ais-StarRating__ratingLinkSelected"
+        disabled={false}
+        href="#"
+        onClick={[Function]}>
+        <span
+          className="ais-StarRating__ratingIcon ais-StarRating__ratingIconSelected" />
+        <span
+          className="ais-StarRating__ratingIcon ais-StarRating__ratingIconSelected" />
+        <span
+          className="ais-StarRating__ratingIcon ais-StarRating__ratingIconSelected" />
+        <span
+          className="ais-StarRating__ratingIcon ais-StarRating__ratingIconSelected" />
+        <span
+          className="ais-StarRating__ratingIcon ais-StarRating__ratingIconSelected" />
+        <span
+          className="ais-StarRating__ratingLabel ais-StarRating__ratingLabelSelected">
+          & Up
+        </span>
+        <span>
+           
+        </span>
+        <span
+          className="ais-StarRating__ratingCount ais-StarRating__ratingCountSelected">
+          5
+        </span>
+      </a>
+      <a
+        className="ais-StarRating__ratingLink"
+        disabled={false}
+        href="#"
+        onClick={[Function]}>
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIconEmpty" />
+        <span
+          className="ais-StarRating__ratingLabel">
+          & Up
+        </span>
+        <span>
+           
+        </span>
+        <span
+          className="ais-StarRating__ratingCount">
+          9
+        </span>
+      </a>
+      <a
+        className="ais-StarRating__ratingLink"
+        disabled={false}
+        href="#"
+        onClick={[Function]}>
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIconEmpty" />
+        <span
+          className="ais-StarRating__ratingIconEmpty" />
+        <span
+          className="ais-StarRating__ratingLabel">
+          & Up
+        </span>
+        <span>
+           
+        </span>
+        <span
+          className="ais-StarRating__ratingCount">
+          12
+        </span>
+      </a>
+      <a
+        className="ais-StarRating__ratingLink"
+        disabled={false}
+        href="#"
+        onClick={[Function]}>
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIconEmpty" />
+        <span
+          className="ais-StarRating__ratingIconEmpty" />
+        <span
+          className="ais-StarRating__ratingIconEmpty" />
+        <span
+          className="ais-StarRating__ratingLabel">
+          & Up
+        </span>
+        <span>
+           
+        </span>
+        <span
+          className="ais-StarRating__ratingCount">
+          14
+        </span>
+      </a>
+      <a
+        className="ais-StarRating__ratingLink"
+        disabled={false}
+        href="#"
+        onClick={[Function]}>
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIconEmpty" />
+        <span
+          className="ais-StarRating__ratingIconEmpty" />
+        <span
+          className="ais-StarRating__ratingIconEmpty" />
+        <span
+          className="ais-StarRating__ratingIconEmpty" />
+        <span
+          className="ais-StarRating__ratingLabel">
+          & Up
+        </span>
+        <span>
+           
+        </span>
+        <span
+          className="ais-StarRating__ratingCount">
+          15
+        </span>
+      </a>
+    </div>
+  </div>
+  <a
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#28c",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": 12,
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "textDecoration": "none",
+        "top": 0,
+      }
+    }>
+    ?
+  </a>
+  <div
+    style={
+      Object {
+        "background": "white",
+        "bottom": 0,
+        "display": "none",
+        "left": 0,
+        "overflow": "auto",
+        "padding": "0 40px",
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      }
+    }>
+    <a
+      onClick={[Function]}
+      style={
+        Object {
+          "background": "#28c",
+          "borderRadius": "0 0 0 5px",
+          "color": "#fff",
+          "cursor": "pointer",
+          "display": "block",
+          "fontFamily": "sans-serif",
+          "fontSize": 12,
+          "padding": "5px 15px",
+          "position": "fixed",
+          "right": 0,
+          "textDecoration": "none",
+          "top": 0,
+        }
+      }>
+      ×
+    </a>
+    <div
+      style={undefined}>
+      <div
+        style={
+          Object {
+            "WebkitFontSmoothing": "antialiased",
+            "color": "#444",
+            "fontFamily": "
+              -apple-system, \".SFNSText-Regular\", \"San Francisco\", \"Roboto\",
+              \"Segoe UI\", \"Helvetica Neue\", \"Lucida Grande\", sans-serif
+            ",
+            "fontSize": 15,
+            "fontWeight": 300,
+            "lineHeight": 1.45,
+          }
+        }>
+        <div
+          style={
+            Object {
+              "borderBottom": "1px solid #eee",
+              "marginBottom": 10,
+            }
+          }>
+          <h1
+            style={
+              Object {
+                "fontSize": 35,
+                "margin": "20px 0 0 0",
+                "padding": 0,
+              }
+            }>
+            StarRating
+          </h1>
+          <h2
+            style={
+              Object {
+                "fontSize": 22,
+                "fontWeight": 400,
+                "margin": "0 0 10px 0",
+                "padding": 0,
+              }
+            }>
+            Highest selected range
+          </h2>
+        </div>
+        <div
+          style={
+            Object {
+              "marginBottom": 0,
+            }
+          }>
+          <p
+            style={
+              Object {
+                "WebkitFontSmoothing": "antialiased",
+                "color": "#444",
+                "fontFamily": "
+                  -apple-system, \".SFNSText-Regular\", \"San Francisco\", \"Roboto\",
+                  \"Segoe UI\", \"Helvetica Neue\", \"Lucida Grande\", sans-serif
+                ",
+                "fontSize": 15,
+              }
+            }>
+            Some description
+          </p>
+        </div>
+        <div>
+          <h1
+            style={
+              Object {
+                "borderBottom": "1px solid #EEE",
+                "fontSize": 25,
+                "margin": "20px 0 0 0",
+                "padding": "0 0 5px 0",
+              }
+            }>
+            Story Source
+          </h1>
+          <pre
+            style={
+              Object {
+                "backgroundColor": "#fafafa",
+                "fontFamily": "Menlo, Monaco, \"Courier New\", monospace",
+                "fontSize": ".88em",
+                "lineHeight": 1.5,
+                "overflowX": "scroll",
+                "padding": ".5rem",
+              }
+            }>
+            <div
+              style={
+                Object {
+                  "paddingLeft": 18,
+                  "paddingRight": 3,
+                }
+              }>
+              <span
+                style={
+                  Object {
+                    "color": "#777",
+                  }
+                }>
+                <
+                StarRating
+              </span>
+              <span>
+                <span>
+                  <span>
+                    <br />
+                      
+                  </span>
+                  <span
+                    style={Object {}}>
+                    createURL
+                  </span>
+                  <span>
+                    =
+                    <span
+                      style={Object {}}>
+                      <span>
+                        {
+                        <span
+                          style={
+                            Object {
+                              "color": "#170",
+                            }
+                          }>
+                          createURL()
+                        </span>
+                        }
+                      </span>
+                    </span>
+                  </span>
+                </span>
+                <span>
+                  <span>
+                    <br />
+                      
+                  </span>
+                  <span
+                    style={Object {}}>
+                    refine
+                  </span>
+                  <span>
+                    =
+                    <span
+                      style={Object {}}>
+                      <span>
+                        {
+                        <span
+                          style={
+                            Object {
+                              "color": "#170",
+                            }
+                          }>
+                          anonymous()
+                        </span>
+                        }
+                      </span>
+                    </span>
+                  </span>
+                </span>
+                <span>
+                  <span>
+                    <br />
+                      
+                  </span>
+                  <span
+                    style={Object {}}>
+                    min
+                  </span>
+                  <span>
+                    =
+                    <span
+                      style={Object {}}>
+                      <span>
+                        {
+                        <span
+                          style={
+                            Object {
+                              "color": "#a11",
+                            }
+                          }>
+                          1
+                        </span>
+                        }
+                      </span>
+                    </span>
+                  </span>
+                </span>
+                <span>
+                  <span>
+                    <br />
+                      
+                  </span>
+                  <span
+                    style={Object {}}>
+                    max
+                  </span>
+                  <span>
+                    =
+                    <span
+                      style={Object {}}>
+                      <span>
+                        {
+                        <span
+                          style={
+                            Object {
+                              "color": "#a11",
+                            }
+                          }>
+                          5
+                        </span>
+                        }
+                      </span>
+                    </span>
+                  </span>
+                </span>
+                <span>
+                  <span>
+                    <br />
+                      
+                  </span>
+                  <span
+                    style={Object {}}>
+                    currentRefinement
+                  </span>
+                  <span>
+                    =
+                    <span
+                      style={Object {}}>
+                      <span>
+                        {
+                        <span
+                          style={
+                            Object {
+                              "color": "#666",
+                            }
+                          }>
+                          {
+                          <span
+                            style={
+                              Object {
+                                "color": "#666",
+                              }
+                            }>
+                            min
+                          </span>
+                          : 
+                          <span>
+                            {
+                            <span
+                              style={
+                                Object {
+                                  "color": "#a11",
+                                }
+                              }>
+                              5
+                            </span>
+                            }
+                          </span>
+                          , 
+                          <span
+                            style={
+                              Object {
+                                "color": "#666",
+                              }
+                            }>
+                            max
+                          </span>
+                          : 
+                          <span>
+                            {
+                            <span
+                              style={
+                                Object {
+                                  "color": "#a11",
+                                }
+                              }>
+                              5
+                            </span>
+                            }
+                          </span>
+                          }
+                        </span>
+                        }
+                      </span>
+                    </span>
+                  </span>
+                </span>
+                <span>
+                  <span>
+                    <br />
+                      
+                  </span>
+                  <span
+                    style={Object {}}>
+                    count
+                  </span>
+                  <span>
+                    =
+                    <span
+                      style={Object {}}>
+                      <span>
+                        {
+                        <span
+                          style={
+                            Object {
+                              "color": "#666",
+                            }
+                          }>
+                          [
+                          <span>
+                            {
+                            <span
+                              style={
+                                Object {
+                                  "color": "#666",
+                                }
+                              }>
+                              {
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }>
+                                value
+                              </span>
+                              : 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }>
+                                \"
+                                1
+                                \"
+                              </span>
+                              , 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }>
+                                count
+                              </span>
+                              : 
+                              <span>
+                                {
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#a11",
+                                    }
+                                  }>
+                                  1
+                                </span>
+                                }
+                              </span>
+                              }
+                            </span>
+                            }
+                          </span>
+                          , 
+                          <span>
+                            {
+                            <span
+                              style={
+                                Object {
+                                  "color": "#666",
+                                }
+                              }>
+                              {
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }>
+                                value
+                              </span>
+                              : 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }>
+                                \"
+                                2
+                                \"
+                              </span>
+                              , 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }>
+                                count
+                              </span>
+                              : 
+                              <span>
+                                {
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#a11",
+                                    }
+                                  }>
+                                  2
+                                </span>
+                                }
+                              </span>
+                              }
+                            </span>
+                            }
+                          </span>
+                          , 
+                          <span>
+                            {
+                            <span
+                              style={
+                                Object {
+                                  "color": "#666",
+                                }
+                              }>
+                              {
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }>
+                                value
+                              </span>
+                              : 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }>
+                                \"
+                                3
+                                \"
+                              </span>
+                              , 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }>
+                                count
+                              </span>
+                              : 
+                              <span>
+                                {
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#a11",
+                                    }
+                                  }>
+                                  3
+                                </span>
+                                }
+                              </span>
+                              }
+                            </span>
+                            }
+                          </span>
+                          , 
+                          …
+                          ]
+                        </span>
+                        }
+                      </span>
+                    </span>
+                  </span>
+                </span>
+                <span>
+                  <span>
+                    <br />
+                      
+                  </span>
+                  <span
+                    style={Object {}}>
+                    canRefine
+                  </span>
+                  <br />
+                </span>
+              </span>
+              <span
+                style={
+                  Object {
+                    "color": "#777",
+                  }
+                }>
+                />
+              </span>
+            </div>
+          </pre>
+        </div>
+        <div>
+          <h1
+            style={
+              Object {
+                "borderBottom": "1px solid #EEE",
+                "fontSize": 25,
+                "margin": "20px 0 0 0",
+                "padding": "0 0 5px 0",
+              }
+            }>
+            Prop Types
+          </h1>
+          <div>
+            <h2
+              style={
+                Object {
+                  "margin": "20px 0 0 0",
+                }
+              }>
+              \"
+              StarRating
+              \" Component
+            </h2>
+            <table
+              style={
+                Object {
+                  "borderCollapse": "separate",
+                  "borderSpacing": "10px 5px",
+                  "marginLeft": -10,
+                }
+              }>
+              <thead>
+                <tr>
+                  <th>
+                    property
+                  </th>
+                  <th>
+                    propType
+                  </th>
+                  <th>
+                    required
+                  </th>
+                  <th>
+                    default
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>
+                    canRefine
+                  </td>
+                  <td>
+                    bool
+                  </td>
+                  <td>
+                    yes
+                  </td>
+                  <td>
+                    -
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    count
+                  </td>
+                  <td>
+                    other
+                  </td>
+                  <td>
+                    no
+                  </td>
+                  <td>
+                    -
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    createURL
+                  </td>
+                  <td>
+                    func
+                  </td>
+                  <td>
+                    yes
+                  </td>
+                  <td>
+                    -
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    currentRefinement
+                  </td>
+                  <td>
+                    other
+                  </td>
+                  <td>
+                    no
+                  </td>
+                  <td>
+                    -
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    max
+                  </td>
+                  <td>
+                    number
+                  </td>
+                  <td>
+                    no
+                  </td>
+                  <td>
+                    -
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    min
+                  </td>
+                  <td>
+                    number
+                  </td>
+                  <td>
+                    no
+                  </td>
+                  <td>
+                    -
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    refine
+                  </td>
+                  <td>
+                    func
+                  </td>
+                  <td>
+                    yes
+                  </td>
+                  <td>
+                    -
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots StarRating another Range 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "position": "relative",
+        "zIndex": 0,
+      }
+    }>
+    <div
+      className="ais-StarRating__root">
+      <a
+        className="ais-StarRating__ratingLink"
+        disabled={false}
+        href="#"
+        onClick={[Function]}>
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingLabel">
+          & Up
+        </span>
+        <span>
+           
+        </span>
+        <span
+          className="ais-StarRating__ratingCount">
+          5
+        </span>
+      </a>
+      <a
+        className="ais-StarRating__ratingLink"
+        disabled={false}
+        href="#"
+        onClick={[Function]}>
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIconEmpty" />
+        <span
+          className="ais-StarRating__ratingLabel">
+          & Up
+        </span>
+        <span>
+           
+        </span>
+        <span
+          className="ais-StarRating__ratingCount">
+          9
+        </span>
+      </a>
+      <a
+        className="ais-StarRating__ratingLink"
+        disabled={false}
+        href="#"
+        onClick={[Function]}>
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIconEmpty" />
+        <span
+          className="ais-StarRating__ratingIconEmpty" />
+        <span
+          className="ais-StarRating__ratingLabel">
+          & Up
+        </span>
+        <span>
+           
+        </span>
+        <span
+          className="ais-StarRating__ratingCount">
+          12
+        </span>
+      </a>
+      <a
+        className="ais-StarRating__ratingLink"
+        disabled={false}
+        href="#"
+        onClick={[Function]}>
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIcon" />
+        <span
+          className="ais-StarRating__ratingIconEmpty" />
+        <span
+          className="ais-StarRating__ratingIconEmpty" />
+        <span
+          className="ais-StarRating__ratingIconEmpty" />
+        <span
+          className="ais-StarRating__ratingLabel">
+          & Up
+        </span>
+        <span>
+           
+        </span>
+        <span
+          className="ais-StarRating__ratingCount">
+          14
+        </span>
+      </a>
+      <div
+        className="ais-StarRating__ratingLink ais-StarRating__ratingLinkSelected"
+        disabled={false}>
+        <span
+          className="ais-StarRating__ratingIcon ais-StarRating__ratingIconSelected" />
+        <span
+          className="ais-StarRating__ratingIconEmpty ais-StarRating__ratingIconEmptySelected" />
+        <span
+          className="ais-StarRating__ratingIconEmpty ais-StarRating__ratingIconEmptySelected" />
+        <span
+          className="ais-StarRating__ratingIconEmpty ais-StarRating__ratingIconEmptySelected" />
+        <span
+          className="ais-StarRating__ratingIconEmpty ais-StarRating__ratingIconEmptySelected" />
+        <span
+          className="ais-StarRating__ratingLabel ais-StarRating__ratingLabelSelected">
+          & Up
+        </span>
+        <span>
+           
+        </span>
+        <span
+          className="ais-StarRating__ratingCount ais-StarRating__ratingCountSelected">
+          15
+        </span>
+      </div>
+    </div>
+  </div>
+  <a
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#28c",
+        "borderRadius": "0 0 0 5px",
+        "color": "#fff",
+        "cursor": "pointer",
+        "display": "block",
+        "fontFamily": "sans-serif",
+        "fontSize": 12,
+        "padding": "5px 15px",
+        "position": "fixed",
+        "right": 0,
+        "textDecoration": "none",
+        "top": 0,
+      }
+    }>
+    ?
+  </a>
+  <div
+    style={
+      Object {
+        "background": "white",
+        "bottom": 0,
+        "display": "none",
+        "left": 0,
+        "overflow": "auto",
+        "padding": "0 40px",
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      }
+    }>
+    <a
+      onClick={[Function]}
+      style={
+        Object {
+          "background": "#28c",
+          "borderRadius": "0 0 0 5px",
+          "color": "#fff",
+          "cursor": "pointer",
+          "display": "block",
+          "fontFamily": "sans-serif",
+          "fontSize": 12,
+          "padding": "5px 15px",
+          "position": "fixed",
+          "right": 0,
+          "textDecoration": "none",
+          "top": 0,
+        }
+      }>
+      ×
+    </a>
+    <div
+      style={undefined}>
+      <div
+        style={
+          Object {
+            "WebkitFontSmoothing": "antialiased",
+            "color": "#444",
+            "fontFamily": "
+              -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto",
+              "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif
+            ",
+            "fontSize": 15,
+            "fontWeight": 300,
+            "lineHeight": 1.45,
+          }
+        }>
+        <div
+          style={
+            Object {
+              "borderBottom": "1px solid #eee",
+              "marginBottom": 10,
+            }
+          }>
+          <h1
+            style={
+              Object {
+                "fontSize": 35,
+                "margin": "20px 0 0 0",
+                "padding": 0,
+              }
+            }>
+            StarRating
+          </h1>
+          <h2
+            style={
+              Object {
+                "fontSize": 22,
+                "fontWeight": 400,
+                "margin": "0 0 10px 0",
+                "padding": 0,
+              }
+            }>
+            another Range
+          </h2>
+        </div>
+        <div
+          style={
+            Object {
+              "marginBottom": 0,
+            }
+          }>
+          <p
+            style={
+              Object {
+                "WebkitFontSmoothing": "antialiased",
+                "color": "#444",
+                "fontFamily": "
+                  -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto",
+                  "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif
+                ",
+                "fontSize": 15,
+              }
+            }>
+            This is the basic usage with the button with providing a label to show the text.
+          </p>
+        </div>
+        <div>
+          <h1
+            style={
+              Object {
+                "borderBottom": "1px solid #EEE",
+                "fontSize": 25,
+                "margin": "20px 0 0 0",
+                "padding": "0 0 5px 0",
+              }
+            }>
+            Story Source
+          </h1>
+          <pre
+            style={
+              Object {
+                "backgroundColor": "#fafafa",
+                "fontFamily": "Menlo, Monaco, "Courier New", monospace",
+                "fontSize": ".88em",
+                "lineHeight": 1.5,
+                "overflowX": "scroll",
+                "padding": ".5rem",
+              }
+            }>
+            <div
+              style={
+                Object {
+                  "paddingLeft": 18,
+                  "paddingRight": 3,
+                }
+              }>
+              <span
+                style={
+                  Object {
+                    "color": "#777",
+                  }
+                }>
+                <
+                StarRating
+              </span>
+              <span>
+                <span>
+                  <span>
+                    <br />
+                      
+                  </span>
+                  <span
+                    style={Object {}}>
+                    createURL
+                  </span>
+                  <span>
+                    =
+                    <span
+                      style={Object {}}>
+                      <span>
+                        {
+                        <span
+                          style={
+                            Object {
+                              "color": "#170",
+                            }
+                          }>
+                          createURL()
+                        </span>
+                        }
+                      </span>
+                    </span>
+                  </span>
+                </span>
+                <span>
+                  <span>
+                    <br />
+                      
+                  </span>
+                  <span
+                    style={Object {}}>
+                    refine
+                  </span>
+                  <span>
+                    =
+                    <span
+                      style={Object {}}>
+                      <span>
+                        {
+                        <span
+                          style={
+                            Object {
+                              "color": "#170",
+                            }
+                          }>
+                          anonymous()
+                        </span>
+                        }
+                      </span>
+                    </span>
+                  </span>
+                </span>
+                <span>
+                  <span>
+                    <br />
+                      
+                  </span>
+                  <span
+                    style={Object {}}>
+                    min
+                  </span>
+                  <span>
+                    =
+                    <span
+                      style={Object {}}>
+                      <span>
+                        {
+                        <span
+                          style={
+                            Object {
+                              "color": "#a11",
+                            }
+                          }>
+                          1
+                        </span>
+                        }
+                      </span>
+                    </span>
+                  </span>
+                </span>
+                <span>
+                  <span>
+                    <br />
+                      
+                  </span>
+                  <span
+                    style={Object {}}>
+                    max
+                  </span>
+                  <span>
+                    =
+                    <span
+                      style={Object {}}>
+                      <span>
+                        {
+                        <span
+                          style={
+                            Object {
+                              "color": "#a11",
+                            }
+                          }>
+                          5
+                        </span>
+                        }
+                      </span>
+                    </span>
+                  </span>
+                </span>
+                <span>
+                  <span>
+                    <br />
+                      
+                  </span>
+                  <span
+                    style={Object {}}>
+                    currentRefinement
+                  </span>
+                  <span>
+                    =
+                    <span
+                      style={Object {}}>
+                      <span>
+                        {
+                        <span
+                          style={
+                            Object {
+                              "color": "#666",
+                            }
+                          }>
+                          {
+                          <span
+                            style={
+                              Object {
+                                "color": "#666",
+                              }
+                            }>
+                            min
+                          </span>
+                          : 
+                          <span>
+                            {
+                            <span
+                              style={
+                                Object {
+                                  "color": "#a11",
+                                }
+                              }>
+                              1
+                            </span>
+                            }
+                          </span>
+                          , 
+                          <span
+                            style={
+                              Object {
+                                "color": "#666",
+                              }
+                            }>
+                            max
+                          </span>
+                          : 
+                          <span>
+                            {
+                            <span
+                              style={
+                                Object {
+                                  "color": "#a11",
+                                }
+                              }>
+                              5
+                            </span>
+                            }
+                          </span>
+                          }
+                        </span>
+                        }
+                      </span>
+                    </span>
+                  </span>
+                </span>
+                <span>
+                  <span>
+                    <br />
+                      
+                  </span>
+                  <span
+                    style={Object {}}>
+                    count
+                  </span>
+                  <span>
+                    =
+                    <span
+                      style={Object {}}>
+                      <span>
+                        {
+                        <span
+                          style={
+                            Object {
+                              "color": "#666",
+                            }
+                          }>
+                          [
+                          <span>
+                            {
+                            <span
+                              style={
+                                Object {
+                                  "color": "#666",
+                                }
+                              }>
+                              {
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }>
+                                value
+                              </span>
+                              : 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }>
+                                "
+                                1
+                                "
+                              </span>
+                              , 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }>
+                                count
+                              </span>
+                              : 
+                              <span>
+                                {
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#a11",
+                                    }
+                                  }>
+                                  1
+                                </span>
+                                }
+                              </span>
+                              }
+                            </span>
+                            }
+                          </span>
+                          , 
+                          <span>
+                            {
+                            <span
+                              style={
+                                Object {
+                                  "color": "#666",
+                                }
+                              }>
+                              {
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }>
+                                value
+                              </span>
+                              : 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }>
+                                "
+                                2
+                                "
+                              </span>
+                              , 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }>
+                                count
+                              </span>
+                              : 
+                              <span>
+                                {
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#a11",
+                                    }
+                                  }>
+                                  2
+                                </span>
+                                }
+                              </span>
+                              }
+                            </span>
+                            }
+                          </span>
+                          , 
+                          <span>
+                            {
+                            <span
+                              style={
+                                Object {
+                                  "color": "#666",
+                                }
+                              }>
+                              {
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }>
+                                value
+                              </span>
+                              : 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }>
+                                "
+                                3
+                                "
+                              </span>
+                              , 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }>
+                                count
+                              </span>
+                              : 
+                              <span>
+                                {
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#a11",
+                                    }
+                                  }>
+                                  3
+                                </span>
+                                }
+                              </span>
+                              }
+                            </span>
+                            }
+                          </span>
+                          , 
+                          …
+                          ]
+                        </span>
+                        }
+                      </span>
+                    </span>
+                  </span>
+                </span>
+                <span>
+                  <span>
+                    <br />
+                      
+                  </span>
+                  <span
+                    style={Object {}}>
+                    canRefine
+                  </span>
+                  <br />
+                </span>
+              </span>
+              <span
+                style={
+                  Object {
+                    "color": "#777",
+                  }
+                }>
+                />
+              </span>
+            </div>
+          </pre>
+        </div>
+        <div>
+          <h1
+            style={
+              Object {
+                "borderBottom": "1px solid #EEE",
+                "fontSize": 25,
+                "margin": "20px 0 0 0",
+                "padding": "0 0 5px 0",
+              }
+            }>
+            Prop Types
+          </h1>
+          <div>
+            <h2
+              style={
+                Object {
+                  "margin": "20px 0 0 0",
+                }
+              }>
+              "
+              StarRating
+              " Component
+            </h2>
+            <table
+              style={
+                Object {
+                  "borderCollapse": "separate",
+                  "borderSpacing": "10px 5px",
+                  "marginLeft": -10,
+                }
+              }>
+              <thead>
+                <tr>
+                  <th>
+                    property
+                  </th>
+                  <th>
+                    propType
+                  </th>
+                  <th>
+                    required
+                  </th>
+                  <th>
+                    default
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>
+                    canRefine
+                  </td>
+                  <td>
+                    bool
+                  </td>
+                  <td>
+                    yes
+                  </td>
+                  <td>
+                    -
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    count
+                  </td>
+                  <td>
+                    other
+                  </td>
+                  <td>
+                    no
+                  </td>
+                  <td>
+                    -
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    createURL
+                  </td>
+                  <td>
+                    func
+                  </td>
+                  <td>
+                    yes
+                  </td>
+                  <td>
+                    -
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    currentRefinement
+                  </td>
+                  <td>
+                    other
+                  </td>
+                  <td>
+                    no
+                  </td>
+                  <td>
+                    -
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    max
+                  </td>
+                  <td>
+                    number
+                  </td>
+                  <td>
+                    no
+                  </td>
+                  <td>
+                    -
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    min
+                  </td>
+                  <td>
+                    number
+                  </td>
+                  <td>
+                    no
+                  </td>
+                  <td>
+                    -
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    refine
+                  </td>
+                  <td>
+                    func
+                  </td>
+                  <td>
+                    yes
+                  </td>
+                  <td>
+                    -
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots StarRating default 1`] = `
+<div
+  className="ais-StarRating__root">
+  <a
+    className="ais-StarRating__ratingLink"
+    disabled={false}
+    href="#"
+    onClick={[Function]}>
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingLabel">
+      & Up
+    </span>
+    <span>
+       
+    </span>
+    <span
+      className="ais-StarRating__ratingCount">
+      5
+    </span>
+  </a>
+  <a
+    className="ais-StarRating__ratingLink"
+    disabled={false}
+    href="#"
+    onClick={[Function]}>
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIconEmpty" />
+    <span
+      className="ais-StarRating__ratingLabel">
+      & Up
+    </span>
+    <span>
+       
+    </span>
+    <span
+      className="ais-StarRating__ratingCount">
+      9
+    </span>
+  </a>
+  <a
+    className="ais-StarRating__ratingLink"
+    disabled={false}
+    href="#"
+    onClick={[Function]}>
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIconEmpty" />
+    <span
+      className="ais-StarRating__ratingIconEmpty" />
+    <span
+      className="ais-StarRating__ratingLabel">
+      & Up
+    </span>
+    <span>
+       
+    </span>
+    <span
+      className="ais-StarRating__ratingCount">
+      12
+    </span>
+  </a>
+  <a
+    className="ais-StarRating__ratingLink"
+    disabled={false}
+    href="#"
+    onClick={[Function]}>
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIcon" />
+    <span
+      className="ais-StarRating__ratingIconEmpty" />
+    <span
+      className="ais-StarRating__ratingIconEmpty" />
+    <span
+      className="ais-StarRating__ratingIconEmpty" />
+    <span
+      className="ais-StarRating__ratingLabel">
+      & Up
+    </span>
+    <span>
+       
+    </span>
+    <span
+      className="ais-StarRating__ratingCount">
+      14
+    </span>
+  </a>
+  <div
+    className="ais-StarRating__ratingLink ais-StarRating__ratingLinkSelected"
+    disabled={false}>
+    <span
+      className="ais-StarRating__ratingIcon ais-StarRating__ratingIconSelected" />
+    <span
+      className="ais-StarRating__ratingIconEmpty ais-StarRating__ratingIconEmptySelected" />
+    <span
+      className="ais-StarRating__ratingIconEmpty ais-StarRating__ratingIconEmptySelected" />
+    <span
+      className="ais-StarRating__ratingIconEmpty ais-StarRating__ratingIconEmptySelected" />
+    <span
+      className="ais-StarRating__ratingIconEmpty ais-StarRating__ratingIconEmptySelected" />
+    <span
+      className="ais-StarRating__ratingLabel ais-StarRating__ratingLabelSelected">
+      & Up
+    </span>
+    <span>
+       
+    </span>
+    <span
+      className="ais-StarRating__ratingCount ais-StarRating__ratingCountSelected">
+      15
+    </span>
+  </div>
+</div>
+`;
