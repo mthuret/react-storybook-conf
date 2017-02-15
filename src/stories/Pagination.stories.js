@@ -28,20 +28,5 @@ stories.addWithInfo('Last selected page', 'description', () => {
     pagesPadding={3}
   />;
 
-  specs(() => describe('StarRating', () => {
-    it('Clicking on a selected range should trigger the selection of the largest one', () => {
-      const wrapper = mount(story);
-      const onClick = expect.createSpy();
-      wrapper.setProps({ onClick });
-
-      const showFirst = wrapper.find('.ais-Pagination__itemFirst .ais-Pagination__itemLink');
-      showFirst.simulate('click');
-
-      expect(onClick).toHaveBeenCalled();
-      expect(onClick).toHaveBeenCalledWith(1);
-      wrapper.unmount();
-    });
-  }));
-
   return story;
 });
