@@ -11,7 +11,7 @@ const stories = storiesOf('Pagination', module);
 
 stories.addDecorator(withKnobs);
 
-stories.add('First selected page', () => {
+stories.add('First page selected', () => {
   return <Pagination
         nbPages={10}
         currentPage={1}
@@ -20,7 +20,7 @@ stories.add('First selected page', () => {
   />;
 });
 
-stories.addWithInfo('Last selected page', 'description', () => {
+stories.addWithInfo('Last page selected', 'description', () => {
   const story = <Pagination
     nbPages={10}
     currentPage={10}
