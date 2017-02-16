@@ -11,7 +11,7 @@ const stories = storiesOf('Pagination', module);
 
 stories.addDecorator(withKnobs);
 
-stories.add('First selected page', () => {
+stories.add('First page selected', () => {
   return <Pagination
         nbPages={10}
         currentPage={1}
@@ -20,7 +20,7 @@ stories.add('First selected page', () => {
   />;
 });
 
-stories.addWithInfo('Last selected page', 'description', () => {
+stories.addWithInfo('Last page selected', 'description', () => {
   const story = <Pagination
     nbPages={10}
     currentPage={10}
@@ -28,8 +28,8 @@ stories.addWithInfo('Last selected page', 'description', () => {
     pagesPadding={3}
   />;
 
-  specs(() => describe('StarRating', () => {
-    it('Clicking on a selected range should trigger the selection of the largest one', () => {
+  specs(() => describe('Pagination', () => {
+    it('Clicking on the showFirst button should select the first page', () => {
       const wrapper = mount(story);
       const onClick = expect.createSpy();
       wrapper.setProps({ onClick });
