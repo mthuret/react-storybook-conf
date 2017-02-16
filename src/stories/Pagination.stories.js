@@ -7,7 +7,7 @@ const stories = storiesOf('Pagination', module);
 
 stories.addDecorator(withKnobs);
 
-stories.add('First selected page', () => {
+stories.add('First page selected', () => {
   return <Pagination
         nbPages={10}
         currentPage={1}
