@@ -3,21 +3,27 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "@kadira/react-storybook-addon-info": "^3.3.0",
-    "@kadira/storybook": "^2.21.0",
-    "@kadira/storybook-addon-knobs": "^1.7.1",
-    "babel-preset-stage-2": "^6.22.0",
+    "@storybook/addon-actions": "3.2.6",
+    "@storybook/addon-info": "3.2.9",
+    "@storybook/addon-knobs": "3.2.8",
+    "@storybook/addon-links": "3.2.6",
+    "@storybook/addon-storyshots": "3.2.8",
+    "@storybook/react": "3.2.8",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
     "enzyme": "^2.7.1",
     "expect": "^1.20.2",
+    "loki": "^0.6.0",
     "react-addons-test-utils": "^15.4.2",
     "react-scripts": "0.8.5",
-    "storybook-addon-specifications": "^1.0.15",
-    "storyshots": "^3.2.1"
+    "storybook-addon-specifications": "^2.1.1"
   },
   "dependencies": {
     "classnames": "^2.2.5",
     "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react-dom": "^15.4.2",
+    "react-test-renderer": "^15.6.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -26,5 +32,21 @@
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 9009 -s public",
     "build-storybook": "build-storybook -s public"
+  },
+  "loki": {
+    "configurations": {
+      "chrome.laptop": {
+        "target": "chrome.app",
+        "width": 1366,
+        "height": 768,
+        "deviceScaleFactor": 1,
+        "mobile": false,
+        "fitWindow": false
+      },
+      "chrome.iphone7": {
+        "target": "chrome.app",
+        "preset": "iPhone 7"
+      }
+    }
   }
 }
