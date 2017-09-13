@@ -37,25 +37,6 @@ stories.add(
       />
     );
 
-    specs(() =>
-      describe('Pagination', () => {
-        it('Clicking on the showFirst button should select the first page', () => {
-          const wrapper = mount(story);
-          const onClick = expect.createSpy();
-          wrapper.setProps({ onClick });
-
-          const showFirst = wrapper.find(
-            '.ais-Pagination__itemFirst .ais-Pagination__itemLink'
-          );
-          showFirst.simulate('click');
-
-          expect(onClick).toHaveBeenCalled();
-          expect(onClick).toHaveBeenCalledWith(1);
-          wrapper.unmount();
-        });
-      })
-    );
-
     return story;
   })
 );
