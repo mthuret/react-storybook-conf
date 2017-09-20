@@ -7,7 +7,7 @@ import { withKnobs, boolean, number, array } from '@storybook/addon-knobs';
 import { orderBy } from 'lodash';
 import { withInfo } from '@storybook/addon-info';
 
-const stories = storiesOf('Widgets/Pagination', module);
+const stories = storiesOf('Pagination', module);
 
 stories.addDecorator(withKnobs);
 
